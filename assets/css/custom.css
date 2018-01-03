@@ -1,0 +1,5 @@
+#datatable-buttons td:last-child, #datatable-buttons th:last-child {
+	text-align: center;
+	white-space: nowrap !important;
+	width: 40px !important;
+}
