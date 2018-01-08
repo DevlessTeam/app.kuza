@@ -3,3 +3,6 @@
 	white-space: nowrap !important;
 	width: 40px !important;
 }
+.settings .form-control-label {
+	text-align: right;
+}
