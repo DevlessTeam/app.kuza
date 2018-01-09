@@ -21,7 +21,7 @@
             <td>2011/04/25</td>
             <td>$320,800</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -32,7 +32,7 @@
             <td>2011/07/25</td>
             <td>$170,750</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -43,7 +43,7 @@
             <td>2009/01/12</td>
             <td>$86,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -54,7 +54,7 @@
             <td>2012/03/29</td>
             <td>$433,060</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -65,7 +65,7 @@
             <td>2008/11/28</td>
             <td>$162,700</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -76,7 +76,7 @@
             <td>2012/12/02</td>
             <td>$372,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -87,7 +87,7 @@
             <td>2012/08/06</td>
             <td>$137,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -98,7 +98,7 @@
             <td>2010/10/14</td>
             <td>$327,900</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -109,7 +109,7 @@
             <td>2009/09/15</td>
             <td>$205,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -120,7 +120,7 @@
             <td>2008/12/13</td>
             <td>$103,600</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -131,7 +131,7 @@
             <td>2008/12/19</td>
             <td>$90,560</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -142,7 +142,7 @@
             <td>2013/03/03</td>
             <td>$342,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -153,7 +153,7 @@
             <td>2008/10/16</td>
             <td>$470,600</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -164,7 +164,7 @@
             <td>2012/12/18</td>
             <td>$313,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -175,7 +175,7 @@
             <td>2010/03/17</td>
             <td>$385,750</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -186,7 +186,7 @@
             <td>2012/11/27</td>
             <td>$198,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -197,7 +197,7 @@
             <td>2010/06/09</td>
             <td>$725,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -208,7 +208,7 @@
             <td>2009/04/10</td>
             <td>$237,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -219,7 +219,7 @@
             <td>2012/10/13</td>
             <td>$132,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -230,7 +230,7 @@
             <td>2012/09/26</td>
             <td>$217,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -241,7 +241,7 @@
             <td>2011/09/03</td>
             <td>$345,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -252,7 +252,7 @@
             <td>2009/06/25</td>
             <td>$675,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -263,7 +263,7 @@
             <td>2011/12/12</td>
             <td>$106,450</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -274,7 +274,7 @@
             <td>2010/09/20</td>
             <td>$85,600</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -285,7 +285,7 @@
             <td>2009/10/09</td>
             <td>$1,200,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -296,7 +296,7 @@
             <td>2010/12/22</td>
             <td>$92,575</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -307,7 +307,7 @@
             <td>2010/11/14</td>
             <td>$357,650</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -318,7 +318,7 @@
             <td>2011/06/07</td>
             <td>$206,850</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -329,7 +329,7 @@
             <td>2010/03/11</td>
             <td>$850,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -340,7 +340,7 @@
             <td>2011/08/14</td>
             <td>$163,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -351,7 +351,7 @@
             <td>2011/06/02</td>
             <td>$95,400</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -362,7 +362,7 @@
             <td>2009/10/22</td>
             <td>$114,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -373,7 +373,7 @@
             <td>2011/05/07</td>
             <td>$145,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -384,7 +384,7 @@
             <td>2008/10/26</td>
             <td>$235,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -395,7 +395,7 @@
             <td>2011/03/09</td>
             <td>$324,050</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -406,7 +406,7 @@
             <td>2009/12/09</td>
             <td>$85,675</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -417,7 +417,7 @@
             <td>2008/12/16</td>
             <td>$164,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -428,7 +428,7 @@
             <td>2010/02/12</td>
             <td>$109,850</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -439,7 +439,7 @@
             <td>2009/02/14</td>
             <td>$452,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -450,7 +450,7 @@
             <td>2008/12/11</td>
             <td>$136,200</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -461,7 +461,7 @@
             <td>2008/09/26</td>
             <td>$645,750</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -472,7 +472,7 @@
             <td>2011/02/03</td>
             <td>$234,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -483,7 +483,7 @@
             <td>2011/05/03</td>
             <td>$163,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -494,7 +494,7 @@
             <td>2009/08/19</td>
             <td>$139,575</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -505,7 +505,7 @@
             <td>2013/08/11</td>
             <td>$98,540</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -516,7 +516,7 @@
             <td>2009/07/07</td>
             <td>$87,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -527,7 +527,7 @@
             <td>2012/04/09</td>
             <td>$138,575</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -538,7 +538,7 @@
             <td>2010/01/04</td>
             <td>$125,250</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -549,7 +549,7 @@
             <td>2012/06/01</td>
             <td>$115,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -560,7 +560,7 @@
             <td>2013/02/01</td>
             <td>$75,650</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -571,7 +571,7 @@
             <td>2011/12/06</td>
             <td>$145,600</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -582,7 +582,7 @@
             <td>2011/03/21</td>
             <td>$356,250</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -593,7 +593,7 @@
             <td>2009/02/27</td>
             <td>$103,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -604,7 +604,7 @@
             <td>2010/07/14</td>
             <td>$86,500</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -615,7 +615,7 @@
             <td>2008/11/13</td>
             <td>$183,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -626,7 +626,7 @@
             <td>2011/06/27</td>
             <td>$183,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
         <tr>
@@ -637,8 +637,53 @@
             <td>2011/01/25</td>
             <td>$112,000</td>
             <td>
-                <a href="#"><i class="zmdi zmdi-eye"></i> View</a>
+                <a href="#order-details" data-animation="fadein" data-plugin="custommodal" data-overlaySpeed="200" data-overlayColor="#36404a"><i class="zmdi zmdi-eye"></i> View</a>
             </td>
         </tr>
     </tbody>
 </table>
+
+<div id="order-details" class="modal-demo">
+    <button type="button" class="close" onclick="Custombox.close();">
+        <span>&times;</span><span class="sr-only">Close</span>
+    </button>
+    <h4 class="custom-modal-title">Order Details</h4>
+    <div class="custom-modal-text">
+        <p><strong>Name: </strong> Maxwell Konadu</p>
+        <p><strong>Phone: </strong> 024 871 1523</p>
+        <p><strong>Location: </strong> No. 19 Banana Street, East Legon</p>
+
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th class="text-sm-center">Quantity</th>
+                    <th class="text-sm-right">Price (Ghc)</th>
+                    <th class="text-sm-right">Unit Price (Ghc)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Biscuits</td>
+                    <td class="text-sm-center">3</td>
+                    <td class="text-sm-right">33.00</td>
+                    <td class="text-sm-right">99.00</td>
+                </tr>
+                <tr>
+                    <td>Drinks</td>
+                    <td class="text-sm-center">13</td>
+                    <td class="text-sm-right">30.00</td>
+                    <td class="text-sm-right">390.00</td>
+                </tr>
+                <tr>
+                    <td>Shoes</td>
+                    <td class="text-sm-center">9</td>
+                    <td class="text-sm-right">50.00</td>
+                    <td class="text-sm-right">540.00</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <h5 class="text-sm-right">Total: Ghc 1380.00</h5>
+    </div>
+</div>
