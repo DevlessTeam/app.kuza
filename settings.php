@@ -90,71 +90,59 @@
                                                         placeholder="Password" class="form-control" id="hori-pass2">
                                                     </div>
                                                 </div>
-                                                <div class="form-group row">
-                                                    <div class="col-sm-8 col-sm-offset-4">
-                                                        <div class="checkbox">
-                                                            <input id="remember-2" type="checkbox">
-                                                            <label for="remember-2"> Remember me </label>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="form-group row">
+                                                <div class="form-group row m-t-2">
                                                     <div class="col-sm-8 col-sm-offset-4">
                                                         <button type="submit" class="btn btn-primary waves-effect waves-light">
-                                                            Register
+                                                            Submit Settings
                                                         </button>
-                                                        <button type="reset"
-                                                        class="btn btn-secondary waves-effect m-l-5">
-                                                        Cancel
-                                                    </button>
+                                                    </div>
                                                 </div>
-                                            </div>
-                                        </form>
+                                            </form>
+                                        </div>
+
                                     </div>
-
                                 </div>
+                                <!-- end row -->
                             </div>
-                            <!-- end row -->
-                        </div>
-                    </div><!-- end col-->
+                        </div><!-- end col-->
 
-                </div>
-                <!-- end row -->
+                    </div>
+                    <!-- end row -->
 
 
-            </div> <!-- container -->
+                </div> <!-- container -->
 
-        </div> <!-- content -->
+            </div> <!-- content -->
 
-    </div>
+        </div>
 
-    <footer class="footer text-right">
-        2018 © Kuza App.
-    </footer>
-</div><!-- END wrapper -->
+        <footer class="footer text-right">
+            2018 © Kuza App.
+        </footer>
+    </div><!-- END wrapper -->
 
-<script>
-    var resizefunc = [];
-</script>
+    <script>
+        var resizefunc = [];
+    </script>
 
-<!-- jQuery  -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/tether.min.js"></script><!-- Tether for Bootstrap -->
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/detect.js"></script>
-<script src="assets/js/fastclick.js"></script>
-<script src="assets/js/jquery.blockUI.js"></script>
-<script src="assets/js/waves.js"></script>
-<script src="assets/js/jquery.nicescroll.js"></script>
-<script src="assets/js/jquery.scrollTo.min.js"></script>
-<script src="assets/js/jquery.slimscroll.js"></script>
-<script src="assets/plugins/switchery/switchery.min.js"></script>
+    <!-- jQuery  -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/tether.min.js"></script><!-- Tether for Bootstrap -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/detect.js"></script>
+    <script src="assets/js/fastclick.js"></script>
+    <script src="assets/js/jquery.blockUI.js"></script>
+    <script src="assets/js/waves.js"></script>
+    <script src="assets/js/jquery.nicescroll.js"></script>
+    <script src="assets/js/jquery.scrollTo.min.js"></script>
+    <script src="assets/js/jquery.slimscroll.js"></script>
+    <script src="assets/plugins/switchery/switchery.min.js"></script>
 
-<!-- App js -->
-<script src="assets/js/jquery.core.js"></script>
-<script src="assets/js/jquery.app.js"></script>
+    <!-- App js -->
+    <script src="assets/js/jquery.core.js"></script>
+    <script src="assets/js/jquery.app.js"></script>
 
-<script src="assets/js/custom.js"></script>
+    <script src="assets/js/custom.js"></script>
 
 </body>
 </html>
