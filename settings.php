@@ -47,7 +47,7 @@
                     <!-- end row -->
 
 
-                    <div class="row">
+                    <div class="row m-t-2">
                         <div class="col-xs-12 col-md-6 col-md-offset-3">
                             <div class="card-box">
 
@@ -57,34 +57,41 @@
                                         <div class="p-20 m-t-2">
                                             <form role="form" data-parsley-validate novalidate>
                                                 <div class="form-group row">
-                                                    <label for="webSite" class="col-sm-4 form-control-label">Username<span class="text-danger"> *</span></label>
+                                                    <label for="webSite" class="col-sm-4 form-control-label">Full Name: <span class="text-danger"> *</span></label>
                                                     <div class="col-sm-7">
-                                                        <input type="text" required parsley-type="username" class="form-control"
-                                                        id="webSite" placeholder="username">
+                                                        <input type="text" required parsley-type="Full Name" class="form-control"
+                                                        id="webSite" placeholder="Full Name">
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label for="inputEmail3" class="col-sm-4 form-control-label">Company Name<span class="text-danger"> *</span></label>
+                                                    <label for="inputEmail3" class="col-sm-4 form-control-label">Company Name: <span class="text-danger"> *</span></label>
                                                     <div class="col-sm-7">
                                                         <input type="text" required parsley-type="email" class="form-control" id="inputEmail3" placeholder="Company Name">
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label for="inputEmail3" class="col-sm-4 form-control-label">Email<span class="text-danger"> *</span></label>
+                                                    <label for="webSite" class="col-sm-4 form-control-label">Short Name: <span class="text-danger"> *</span></label>
+                                                    <div class="col-sm-7">
+                                                        <input type="text" required parsley-type="Short Name" class="form-control"
+                                                        id="webSite" placeholder="Short Name">
+                                                    </div>
+                                                </div>
+                                                <div class="form-group row">
+                                                    <label for="inputEmail3" class="col-sm-4 form-control-label">Email: <span class="text-danger"> *</span></label>
                                                     <div class="col-sm-7">
                                                         <input type="email" required parsley-type="email" class="form-control"
                                                         id="inputEmail3" placeholder="Email">
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label for="hori-pass1" class="col-sm-4 form-control-label">Old Password<span class="text-danger"> *</span></label>
+                                                    <label for="hori-pass1" class="col-sm-4 form-control-label">Old Password: <span class="text-danger"> *</span></label>
                                                     <div class="col-sm-7">
                                                         <input id="hori-pass1" type="password" placeholder="Password" required
                                                         class="form-control">
                                                     </div>
                                                 </div>
                                                 <div class="form-group row">
-                                                    <label for="hori-pass2" class="col-sm-4 form-control-label">New Password<span class="text-danger"> *</span></label>
+                                                    <label for="hori-pass2" class="col-sm-4 form-control-label">New Password: <span class="text-danger"> *</span></label>
                                                     <div class="col-sm-7">
                                                         <input data-parsley-equalto="#hori-pass1" type="password" required
                                                         placeholder="Password" class="form-control" id="hori-pass2">
