@@ -8,7 +8,8 @@
         <link href="assets/plugins/datatables/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css" />
         <link href="assets/plugins/datatables/buttons.bootstrap4.min.css" rel="stylesheet" type="text/css" />
         <link href="assets/plugins/datatables/responsive.bootstrap4.min.css" rel="stylesheet" type="text/css" />
-
+        
+        <link href="assets/plugins/custombox/css/custombox.min.css" rel="stylesheet">
         <link href="assets/plugins/switchery/switchery.min.css" rel="stylesheet" />
         <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
         <link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
@@ -228,6 +229,10 @@
         <!-- Responsive examples -->
         <script src="assets/plugins/datatables/dataTables.responsive.min.js"></script>
         <script src="assets/plugins/datatables/responsive.bootstrap4.min.js"></script>
+
+        <!-- Modal-Effect -->
+        <script src="assets/plugins/custombox/js/custombox.min.js"></script>
+        <script src="assets/plugins/custombox/js/legacy.min.js"></script>
 
         <script src="assets/js/jquery.core.js"></script>
         <script src="assets/js/jquery.app.js"></script>
