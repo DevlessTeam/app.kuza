@@ -683,7 +683,13 @@
                 </tr>
             </tbody>
         </table>
-
-        <h5 class="text-sm-right">Total: Ghc 1380.00</h5>
+        <div class="row">
+            <div class="col-xs-6">
+                <a href="javascript:void(0)" class="btn btn-success">Process Order</a>
+            </div>
+            <div class="col-xs-6">
+                <h5 class="m-t-10 m-r-10 text-sm-right">Total: Ghc 1380.00</h5>
+            </div>
+        </div>
     </div>
 </div>
