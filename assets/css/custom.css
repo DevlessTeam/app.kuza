@@ -234,3 +234,6 @@ a.hiddenanchor {
     width: 1%;
     white-space:nowrap;
 }
+table .btn-sm {
+    padding: 0.25rem 0.55rem;
+}
