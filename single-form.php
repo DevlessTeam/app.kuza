@@ -77,7 +77,7 @@
                                                 <tr>
                                                     <td><input type="text" class="form-control prod-quant" placeholder="Enter product name"></td>
                                                     <td><input type="text" class="form-control" placeholder="20.30"></td>
-                                                    <td class="fitcell"><button type="button" class="btn btn-danger removeRow">x</button></td>
+                                                    <td class="fitcell"><button type="button" class="btn btn-danger removeRow btn-sm mr-t-3">x</button></td>
                                                 </tr>
                                             <?php } ?>
                                         </tbody>
