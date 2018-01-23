@@ -18,8 +18,6 @@
                     <a href="javascript:void(0);" class="waves-effect"><i class="zmdi zmdi-album"></i> <span> Orders </span> <span class="menu-arrow"></span></a>
                     <ul class="list-unstyled">
                         <li><a href="orders.php">All Orders</a></li>
-                        <li><a href="javascript:void(0);">Processed</a></li>
-                        <li><a href="javascript:void(0);">Non Processed</a></li>
                     </ul>
                 </li>
                 <li class="has_sub">
