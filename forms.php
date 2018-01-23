@@ -26,7 +26,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="page-title-box">
-                                <h4 class="page-title">Some Form Title  </h4> <span class="m-l-2">(http://kuzaforms.com/x7a8dad)</span>
+                                <h4 class="page-title">Kuza Forms</h4>
                                 <ol class="breadcrumb p-0">
                                     <li><a href="#">Kuza App</a></li>
                                     <li><a href="#">Pages</a></li>
@@ -36,61 +36,47 @@
                             </div>
                         </div>
                     </div><!-- end row -->
-
                     <div class="row">
-                        <div class="col-xs-12 col-md-4 col-md-offset-1">
+                        <div class="col-xs-12 col-md-offset-1 col-md-10">
                             <div class="card-box">
-
-                                <h4 class="header-title m-t-0 m-b-20">Form Details</h4>
-                                <div class="form-group">
-                                    <input type="text" class="form-control prod-quant" placeholder="Enter form title">
-                                </div>
-                                <div class="form-group">
-                                    <textarea class="form-control" id="" rows="3" placeholder="Enter Form Description"></textarea>
-                                </div>
-                            </div>
-                            <div class="card-box">
-
-                                <h4 class="header-title m-t-0 m-b-20">Form Image</h4>
+                                <h4 class="header-title m-t-0">Generated Forms</h4>
+                                <p class="text-muted font-13 m-b-10">
+                                    Your awesome text goes here.Your awesome text goes here.
+                                </p>
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>#</th>
+                                            <th>Form Title</th>
+                                            <th>Shareable Link</th>
+                                            <th class="text-xs-center">Orders</th>
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <?php for ($i=1; $i < 8; $i++) { ?>
+                                        <tr>
+                                            <th scope="row"><?= $i ?></th>
+                                            <td>Esse modi vel omnis rem dolor</td>
+                                            <td class="fitcell">http://kuzaforms.com/doughman?link_id=5a5cbea213313</td>
+                                            <td class="text-xs-center">35</td>
+                                            <td class="fitcell">
+                                                <a href="#" class="btn btn-sm waves-effect waves-light btn-success" title="View Company"><i class="fa fa-eye"></i></a>
+                                                <a href="#" class="btn btn-sm waves-effect waves-light btn-primary" title="Edit Company"><i class="fa fa-pencil"></i></a>
+                                                <a href="#" class="btn btn-sm waves-effect waves-light btn-purple"> <i class="fa fa-share-alt"></i> </a>
+                                                <a href="#" class="btn btn-sm waves-effect waves-light btn-danger"> <i class="fa fa-times"></i> </a>
+                                            </td>
+                                        </tr>
+                                        <?php } ?>
+                                    </tbody>
+                                </table>
 
                                 <div class="text-xs-center">
-                                    <img src="http://placehold.it/400x280" class="img-fluid" alt="">
+                                    <a href="javascript:void(0)" class="btn btn-primary waves-effect waves-light">New Form</a>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="col-xs-12 col-md-6">
-                            <div class="card-box">
-
-                                <h4 class="header-title m-t-0 m-b-20">Product List</h4>
-
-                                <div class="products-wrap">
-                                    <table class="table table-hover">
-                                        <thead>
-                                            <tr>
-                                                <th>Product Name</th>
-                                                <th width="18%">Price</th>
-                                                <th class="fitcell text-xs-center"><button type="button" class="btn btn-success btn-sm removeRow">+</button></th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            <?php for ($i=0; $i < 4; $i++) { ?>
-                                                <tr>
-                                                    <td><input type="text" class="form-control prod-quant" placeholder="Enter product name"></td>
-                                                    <td><input type="text" class="form-control" placeholder="20.30"></td>
-                                                    <td class="fitcell"><button type="button" class="btn btn-danger removeRow btn-sm mr-t-3">x</button></td>
-                                                </tr>
-                                            <?php } ?>
-                                        </tbody>
-                                    </table>
-                                    <a href="#" class="btn btn-success addRow">+ Add Product</a>
-                                </div>
-                            </div>
-                            <div class="text-xs-center">
-                                <a href="javascript:void(0)" class="btn btn-primary waves-effect waves-light">Update Form</a>
                             </div>
                         </div>
                     </div>
-
                 </div> <!-- container -->
             </div> <!-- content -->
         </div><!-- End content-page -->
