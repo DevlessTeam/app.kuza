@@ -707,7 +707,10 @@
     </button>
     <h4 class="custom-modal-title">Order Details</h4>
     <div class="custom-modal-text">
-        <p><strong>Name: </strong> Maxwell Konadu</p>
+        <p>
+            <strong>Name: </strong> Maxwell Konadu 
+            <span class="label label-success pull-right">Delivered</span>
+        </p>
         <p><strong>Phone: </strong> 024 871 1523</p>
         <p><strong>Location: </strong> No. 19 Banana Street, East Legon</p>
 
@@ -743,10 +746,16 @@
         </table>
         <div class="row">
             <div class="col-xs-6">
-                <a href="javascript:void(0)" class="btn btn-success">Process Order</a>
+                <select class="c-select" required="required">
+                    <option value="">Select Process</option>
+                    <option value="">Pending</option>
+                    <option value="">Processed</option>
+                    <option value="">Delivered</option>
+                </select>
+                <a href="javascript:void(0)" class="btn btn-success">Submit</a>
             </div>
             <div class="col-xs-6">
-                <h5 class="m-t-10 m-r-10 text-sm-right">Total: Ghc 1380.00</h5>
+                <h5 class="m-t-10 m-r-10 text-sm-right">Total: Ghc 1,380.00</h5>
             </div>
         </div>
     </div>

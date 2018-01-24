@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kuza App</title>
 
+    <link href="assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css" rel="stylesheet" />
     <link href="assets/plugins/switchery/switchery.min.css" rel="stylesheet" />
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
@@ -61,6 +62,14 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="card-box">
 
+                                <h4 class="header-title m-t-0 m-b-20">Order Process</h4>
+                                <p class="text-muted m-b-20 font-13">Type your order process followed by a comma... step 1 -> step 2 -> step 3...</p>
+                                <div class="tags-default">
+                                    <input type="text" value="Pending, Process, Deliver" data-role="tagsinput" placeholder="add process"/>
+                                </div>
+                            </div>
+                            <div class="card-box">
+
                                 <h4 class="header-title m-t-0 m-b-20">Product List</h4>
 
                                 <div class="products-wrap">
@@ -73,12 +82,12 @@
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            <?php for ($i=0; $i < 4; $i++) { ?>
-                                                <tr>
-                                                    <td><input type="text" class="form-control prod-quant" placeholder="Enter product name"></td>
-                                                    <td><input type="text" class="form-control" placeholder="20.30"></td>
-                                                    <td class="fitcell"><button type="button" class="btn btn-danger removeRow btn-sm mr-t-3">x</button></td>
-                                                </tr>
+                                            <?php for ($i=0; $i < 3; $i++) { ?>
+                                            <tr>
+                                                <td><input type="text" class="form-control prod-quant" placeholder="Enter product name"></td>
+                                                <td><input type="text" class="form-control" placeholder="20.30"></td>
+                                                <td class="fitcell"><button type="button" class="btn btn-danger removeRow btn-sm mr-t-3">x</button></td>
+                                            </tr>
                                             <?php } ?>
                                         </tbody>
                                     </table>
@@ -116,6 +125,7 @@
     <script src="assets/js/jquery.scrollTo.min.js"></script>
     <script src="assets/js/jquery.slimscroll.js"></script>
     <script src="assets/plugins/switchery/switchery.min.js"></script>
+    <script src="assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.js"></script>
 
     <!-- App js -->
     <script src="assets/js/jquery.core.js"></script>
