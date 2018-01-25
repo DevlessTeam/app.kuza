@@ -62,10 +62,10 @@
                         <div class="col-xs-12 col-md-6">
                             <div class="card-box">
 
-                                <h4 class="header-title m-t-0 m-b-20">Order Process</h4>
-                                <p class="text-muted m-b-20 font-13">Type your order process followed by a comma... step 1 -> step 2 -> step 3...</p>
+                                <h4 class="header-title m-t-0 m-b-20">Order Status</h4>
+                                <p class="text-muted m-b-20 font-13">Add status for the orders you recieve... Eg. Pending, Processed, Delivered</p>
                                 <div class="tags-default">
-                                    <input type="text" value="Pending, Process, Deliver" data-role="tagsinput" placeholder="add process"/>
+                                    <input type="text" value="Pending, Processed, Delivered" data-role="tagsinput" placeholder="add status"/>
                                 </div>
                             </div>
                             <div class="card-box">
