@@ -16,7 +16,7 @@
         <div class="login_wrapper">
             <div class="animate form login_form">
                 <section class="login_content">
-                    <img src="assets/images/logo.png" height="70px" alt="" class="mr-b-20">
+                    <img src="assets/images/logo2.png" height="70px" alt="" class="mr-b-20">
                     <form>
                         <h1>Sign In</h1>
                         <div>
@@ -44,7 +44,7 @@
 
             <div id="register" class="animate form registration_form">
                 <section class="login_content">
-                    <img src="assets/images/logo.png" height="70px" alt="" class="mr-b-20">
+                    <img src="assets/images/logo2.png" height="70px" alt="" class="mr-b-20">
                     <form>
                         <h1>Create Account</h1>
                         <div>

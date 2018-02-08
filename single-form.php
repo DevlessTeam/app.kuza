@@ -39,7 +39,7 @@
                     </div><!-- end row -->
 
                     <div class="row">
-                        <div class="col-xs-12 col-md-4 col-md-offset-1">
+                        <div class="col-xs-12 col-md-3">
                             <div class="card-box">
 
                                 <h4 class="header-title m-t-0 m-b-20">Form Details</h4>
@@ -59,11 +59,11 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-xs-12 col-md-6">
+                        <div class="col-xs-12 col-md-5">
                             <div class="card-box">
 
                                 <h4 class="header-title m-t-0 m-b-20">Order Status</h4>
-                                <p class="text-muted m-b-20 font-13">Add status for the orders you recieve... Eg. Pending, Processed, Delivered</p>
+                                <p class="text-muted m-b-20 font-13">Add status for the orders you recieve... Eg. Pending, Processed, etc</p>
                                 <div class="tags-default">
                                     <input type="text" value="Pending, Processed, Delivered" data-role="tagsinput" placeholder="add status"/>
                                 </div>
@@ -96,6 +96,33 @@
                             </div>
                             <div class="text-xs-center">
                                 <a href="javascript:void(0)" class="btn btn-primary waves-effect waves-light">Update Form</a>
+                            </div>
+                        </div>
+                        <div class="col-xs-12 col-md-4">
+                            <div class="card-box">
+
+                                <h4 class="header-title m-t-0 m-b-20">Delivery Details</h4>
+                                <div class="delivery-wrap">
+                                    <table class="table table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th>Location</th>
+                                                <th width="25%">Price</th>
+                                                <th class="fitcell text-xs-center"><button type="button" class="btn btn-success btn-sm removeRow">+</button></th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <?php for ($i=0; $i < 3; $i++) { ?>
+                                            <tr>
+                                                <td><input type="text" class="form-control prod-quant" placeholder="Enter product name"></td>
+                                                <td><input type="text" class="form-control" placeholder="20.30"></td>
+                                                <td class="fitcell"><button type="button" class="btn btn-danger removeRow btn-sm mr-t-3">x</button></td>
+                                            </tr>
+                                            <?php } ?>
+                                        </tbody>
+                                    </table>
+                                    <a href="#" class="btn btn-success addRow">+ Add Location</a>
+                                </div>
                             </div>
                         </div>
                     </div>
